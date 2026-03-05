@@ -1,0 +1,7 @@
+/target
+roms/
+assets/
+*.bps
+.DS_Store
+.claude/
+.worktrees/
